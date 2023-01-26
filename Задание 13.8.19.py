@@ -10,4 +10,4 @@ for i in range(1, n + 1):
         sum_total += 1390
 if n > 3:
     sum_total -= sum_total * 0.1
-print(sum_total)
+print('Сумма к оплате:', sum_total)
